@@ -1,0 +1,14 @@
+C:\Users\ZacharyBruner\source\repos\Interface Bruner Zach\obj\Debug\net8.0\Interface Bruner Zach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZacharyBruner\source\repos\Interface Bruner Zach\obj\Debug\net8.0\Interface Bruner Zach.AssemblyInfoInputs.cache
+C:\Users\ZacharyBruner\source\repos\Interface Bruner Zach\obj\Debug\net8.0\Interface Bruner Zach.AssemblyInfo.cs
+C:\Users\ZacharyBruner\source\repos\Interface Bruner Zach\obj\Debug\net8.0\Interface Bruner Zach.csproj.CoreCompileInputs.cache
+C:\Users\ZacharyBruner\source\repos\Interface Bruner Zach\bin\Debug\net8.0\Interface Bruner Zach.exe
+C:\Users\ZacharyBruner\source\repos\Interface Bruner Zach\bin\Debug\net8.0\Interface Bruner Zach.deps.json
+C:\Users\ZacharyBruner\source\repos\Interface Bruner Zach\bin\Debug\net8.0\Interface Bruner Zach.runtimeconfig.json
+C:\Users\ZacharyBruner\source\repos\Interface Bruner Zach\bin\Debug\net8.0\Interface Bruner Zach.dll
+C:\Users\ZacharyBruner\source\repos\Interface Bruner Zach\bin\Debug\net8.0\Interface Bruner Zach.pdb
+C:\Users\ZacharyBruner\source\repos\Interface Bruner Zach\obj\Debug\net8.0\Interface Bruner Zach.dll
+C:\Users\ZacharyBruner\source\repos\Interface Bruner Zach\obj\Debug\net8.0\refint\Interface Bruner Zach.dll
+C:\Users\ZacharyBruner\source\repos\Interface Bruner Zach\obj\Debug\net8.0\Interface Bruner Zach.pdb
+C:\Users\ZacharyBruner\source\repos\Interface Bruner Zach\obj\Debug\net8.0\Interface Bruner Zach.genruntimeconfig.cache
+C:\Users\ZacharyBruner\source\repos\Interface Bruner Zach\obj\Debug\net8.0\ref\Interface Bruner Zach.dll

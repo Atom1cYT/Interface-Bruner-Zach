@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZacharyBruner\\source\\repos\\Interface Bruner Zach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{445F77DD-7808-4635-87B1-ECC8BA28C86C}|Interface Bruner Zach.csproj|c:\\users\\zacharybruner\\source\\repos\\interface bruner zach\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445F77DD-7808-4635-87B1-ECC8BA28C86C}|Interface Bruner Zach.csproj|solutionrelative:movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445F77DD-7808-4635-87B1-ECC8BA28C86C}|Interface Bruner Zach.csproj|c:\\users\\zacharybruner\\source\\repos\\interface bruner zach\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445F77DD-7808-4635-87B1-ECC8BA28C86C}|Interface Bruner Zach.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445F77DD-7808-4635-87B1-ECC8BA28C86C}|Interface Bruner Zach.csproj|c:\\users\\zacharybruner\\source\\repos\\interface bruner zach\\igenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445F77DD-7808-4635-87B1-ECC8BA28C86C}|Interface Bruner Zach.csproj|solutionrelative:igenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445F77DD-7808-4635-87B1-ECC8BA28C86C}|Interface Bruner Zach.csproj|c:\\users\\zacharybruner\\source\\repos\\interface bruner zach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445F77DD-7808-4635-87B1-ECC8BA28C86C}|Interface Bruner Zach.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\ZacharyBruner\\source\\repos\\Interface Bruner Zach\\Movie.cs",
+              "RelativeDocumentMoniker": "Movie.cs",
+              "ToolTip": "C:\\Users\\ZacharyBruner\\source\\repos\\Interface Bruner Zach\\Movie.cs",
+              "RelativeToolTip": "Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:35:45.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\ZacharyBruner\\source\\repos\\Interface Bruner Zach\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\ZacharyBruner\\source\\repos\\Interface Bruner Zach\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:59:51.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenre.cs",
+              "DocumentMoniker": "C:\\Users\\ZacharyBruner\\source\\repos\\Interface Bruner Zach\\IGenre.cs",
+              "RelativeDocumentMoniker": "IGenre.cs",
+              "ToolTip": "C:\\Users\\ZacharyBruner\\source\\repos\\Interface Bruner Zach\\IGenre.cs",
+              "RelativeToolTip": "IGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:56:02.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZacharyBruner\\source\\repos\\Interface Bruner Zach\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ZacharyBruner\\source\\repos\\Interface Bruner Zach\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:06:48.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
